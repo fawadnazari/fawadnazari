@@ -1,7 +1,6 @@
 ##  👋 Hi, I’m Fawad Nazari
 
-####    I'm an Industrial engineer who took a path as a Developer. I'm currently a teaching assistant at kodluyoruz group.
-
+####    I'm an Industrial engineer who took a path as a Developer.
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently improving my javascript and reactjs skills
 - 📫 How to reach me fawad.nazarogli@gmail.com
